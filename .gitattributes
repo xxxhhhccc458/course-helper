@@ -1,0 +1,2 @@
+# 文档仓库：统一以 LF 存储与检出，避免 Windows 下换行符噪声
+* text=auto eol=lf
