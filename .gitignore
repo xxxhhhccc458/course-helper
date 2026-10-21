@@ -1,0 +1,20 @@
+# 系统杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 临时与日志
+*.log
+.tmp/
+
+# 依赖（本仓库为纯文档，正常不会出现）
+node_modules/
+__pycache__/
+
+# DSH 文件工具临时锁
+.dsh-ops-*.lock
