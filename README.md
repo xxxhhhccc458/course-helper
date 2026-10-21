@@ -77,7 +77,7 @@ course-helper/
 ### Claude Code
 
 ```bash
-git clone https://github.com/<你的用户名>/course-helper.git ~/.claude/skills/course-helper
+git clone https://github.com/xxxhhhccc458/course-helper.git ~/.claude/skills/course-helper
 ```
 
 ### Codex CLI / Cursor / 其他通用 Agent
